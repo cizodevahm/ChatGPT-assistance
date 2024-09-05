@@ -48,9 +48,9 @@ expo start
 
 Check out the demonstration videos to see ChatGPT Assistant in action:
 
-![0519](https://github.com/cizodevahm/ChatGPT-assistance/assets/81239267/0f9716b3-2a42-4dba-b5dc-d65faa837487)
+![0519](https://github.com/cizodevahm/ChatGPT-assistance/assets/mobile-app.gif)
 
-![0519 (1)(1)](https://github.com/cizodevahm/ChatGPT-assistance/assets/81239267/5d1094a0-9367-4772-b520-a8841b0f412a)
+![0519 (1)(1)](https://github.com/cizodevahm/ChatGPT-assistance/assets/website-app.gif)
 
 ## Contributing
 
